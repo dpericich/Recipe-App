@@ -31,3 +31,7 @@ img{
     text-align: center;
     margin: 0px 20px;
 }
+
+ol {
+    list-style-type: none;
+}
